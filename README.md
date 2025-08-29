@@ -4,21 +4,11 @@ Welcome to the zoo.
 
 These animals have all escaped in the main branch:
 
-- ostrich
 - lion
-- giraffe
-- cassowary
 - beaver
-- kangaroo
 - koala
 - platypus
-- tiger
-- baboon
-- mandrill
-- turtle
 - bat
-- python
-- cheetah
 - aardvark
 
 ## Habitats
