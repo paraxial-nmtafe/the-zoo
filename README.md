@@ -7,7 +7,7 @@ These animals have all escaped in the main branch:
 - ostrich
 - lion
 - giraffe
-- cassowary
+
 - beaver
 - kangaroo
 - koala
@@ -18,7 +18,7 @@ These animals have all escaped in the main branch:
 - bat
 - python
 - cheetah
-- aardvark
+
 
 ## Habitats
 
