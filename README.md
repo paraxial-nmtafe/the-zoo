@@ -4,9 +4,7 @@ Welcome to the zoo.
 
 These animals have all escaped in the main branch:
 
-- ostrich
-- lion
-- giraffe
+
 - cassowary
 - beaver
 - kangaroo
