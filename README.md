@@ -5,14 +5,14 @@ Welcome to the zoo.
 These animals have all escaped in the main branch:
 
 - ostrich
-- lion
+
 - giraffe
 - cassowary
 - beaver
 - kangaroo
 - koala
 - platypus
-- tiger
+
 - baboon
 - mandrill
 - turtle
@@ -23,9 +23,10 @@ These animals have all escaped in the main branch:
 
 ## Habitats
 
-Please fork this repository and put *2 animals* back in their habitat, before opening a pull request back here.
+Please fork this repository and put _2 animals_ back in their habitat, before opening a pull request back here.
 
 There are 5 main habitats:
+
 - The Bird pen
 - The Primate Enclosure
 - The Reptile House
