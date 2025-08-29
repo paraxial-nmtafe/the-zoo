@@ -21,3 +21,5 @@ There are 5 main habitats:
 - The Reptile House
 - The Big Cat enclosure
 - All other animals
+
+x2
