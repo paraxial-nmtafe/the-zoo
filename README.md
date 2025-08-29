@@ -15,7 +15,6 @@ These animals have all escaped in the main branch:
 - tiger
 - baboon
 - mandrill
-- turtle
 - bat
 - python
 - cheetah
